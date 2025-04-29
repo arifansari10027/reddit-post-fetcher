@@ -42,7 +42,7 @@ pip install praw python-dotenv
 ### 5. Run the Script
 
 ```bash
-python reddit_fetcher.py
+python reddit-fetcher.py
 ```
 
 ---
