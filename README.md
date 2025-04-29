@@ -19,6 +19,8 @@ Clone this repo or download the ZIP file and extract it.
 - Fill in a name and `http://localhost:8080` as redirect URI
 - Copy the generated `client_id` and `client_secret`
 
+![Screenshot](https://github.com/arifansari10027/reddit-post-fetcher/blob/d136bc36a4f7bb868d5294dd7c0fd659625a615c/reddit-secrets.png)
+
 ### 3. Create `.env` File
 Inside the project folder, create a `.env` file with:
 
